@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #333;
+    background: #fafafa;
+}
+#container {
+    width: 100%;
+    text-align: center;
+    margin: auto ;
+}
+#btn{
+    background: #00bcd4;
+    color: rgb(13, 13, 13);
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+#btn:hover{
+    background: #0097a7;
+}
+#btn:active{
+    background: #0097a7;
+}
+#btn2{
+    background: #00bcd4;
+    color: rgb(13, 13, 13);
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+#btn2:hover{
+    background: #0097a7;
+}
+#btn2:active{
+    background: #0097a7;
+}
